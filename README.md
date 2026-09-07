@@ -38,4 +38,4 @@ This repository is a record of my progression from learning the fundamentals to 
 ---
 
 Ignatius Mwangangi
-MSc Bioinformatics 🧬 | Biomedical Scientist 🔬
+MSc Bioinformatics 🧬 | Biomedical Scientist
